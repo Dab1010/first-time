@@ -1,0 +1,60 @@
+/*selector {
+	property: value;
+}*/
+
+/*cmd + ?*/
+
+p{
+	color: red;
+}
+
+div p {
+	font-size: 75px;
+	color: silver;
+}
+	p {
+		color: aliceblue;
+		color: #A52A2A;
+	}
+h1 {
+	font font-family: Helvetica, Arial, sans-serif;
+	background-color: red;
+	height: 250px;
+	width: 250x250px;
+	/*border: 10px solid navy;
+	padding: 15px;
+	margin: 50px;*/
+	margin-top:-20px;
+}
+
+/*/id selector*/
+#first_paragraph {
+	border: 3px black solid;
+	color: blue;
+	color: rgb(0,153,51);
+	color: rgba(0.153.51,0.5);
+	font-size: 40px;
+	font-size: 3.5em;
+	font-family: Helvetica,Arial,sans-serif;
+
+}
+
+body {
+	background-color: black;
+	/*background-image: url(https://static-00-www.icij.org/sites/icij/files/styles/project_marquee/public/1200-bahamas-shutterstock_54949447_0.jpg?itok=q1IZ5U2M);
+}*/
+
+/*class selector*//*
+.highlighted_paragraph {
+	background-color: yellow;*/ 
+}
+/*attribute selector */
+[country = "America"]{
+	background-color: blue;
+	border: 3px red solid;
+	color: white;
+}
+/*pseudo -class selector*/
+p: hover{
+	color: darkgreen;
+}

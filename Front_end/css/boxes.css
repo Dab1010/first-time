@@ -1,0 +1,27 @@
+div{
+	height: 150px;
+	width: 150px;
+	border:2px solid black;
+	display: block;
+}
+#one {
+	background-color: blue;
+	float: right;
+}
+#two{
+	background-color: red;
+	float: left;
+}
+#three{
+	background-color: green;
+/*	position: absolute;
+	margin-left: 300px
+	margin-top:200px;*/
+	float: right;
+}
+#four{
+	background-color: orange;
+	/*position: relative;*/
+
+
+}

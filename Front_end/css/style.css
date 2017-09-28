@@ -1,0 +1,91 @@
+.contact-form{width: 80%
+margin 0 auto;
+background-color: #999;
+border: 2px solid #000
+padding: 20px;
+font-size: 20px;
+box-sizing: border-box;
+*color: red;
+
+
+/*{ a {color: red;}
+/**/
+a: visited{color: green;}
+a: hover{color: black; text- decoration: underline;}
+a: active{font-weight: bold;}
+
+.button:
+{background-color: blue;}
+	color: white; 
+	border: 0;
+	padding: 12px 32px; 
+	margin-right: 10px; 
+
+
+.button: hover{
+	background-color: blue;
+	cursor: pointer;
+
+}
+.button: active{
+	background-color: white;
+}
+.navigation {
+	padding-left: 0;
+	list-style-type: none;
+}
+
+.navigation 
+body{
+	color: white;
+	background-color: purple;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+.subscribe{
+	background-color: green;
+}
+/*
+}
+
+.purple{
+	color: #482950;
+	font-weight: bold;
+	font-size: 30px;
+}
+#panthers{
+	color: #0088CE;
+	font-size: 30px;
+}
+.my-teams{
+	border: 5px solid #333;
+	background-color: #white;
+	width: 50%;
+	text-align: center;
+	padding: 20px; 0px; 60px; 
+	margin: 90px; auto 0px; 
+	position: relative;
+}
+.my-teams ul {
+	list-style-type: none;
+	border-image-source: https://i.pinimg.com/236x/5d/97/22/5d97223b762bc43bcaa3f2758d44b14c--blue-bloods-bull-dog.jpg.panthers-text{
+    padding: 20px;0px; 60px; 
+	margin: 20px 20px 20px 20px
+	margin: 0 auto;
+{
+.fixed
+		position: fixed;
+		background-color: lightgreen;
+		text-align: center;
+		top: 0;
+		left: 100px;
+
+}
+
+.photo{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}*/
+}

@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-family: halvetica,arial,sans-serif;
+	font-size: 16px;
+}
+
+h1{
+	font-size: 32px;
+}
+
+h2{
+	font-size: 28px;
+}
+
+#header-statment {
+	text-align: center;
+}
+
+.page-row{
+	width: 100%;
+	clear: both;
+	padding: 5%;
+	margin-top: 2%
+	margin-bottom:2%;
+}
+
+.card{
+	width: 20%;
+	height: 300%;
+	margin: 2.5%
+	padding-top:15%;
+	float: left;
+	background-color: white;
+	text-align: center;
+	color: black;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
